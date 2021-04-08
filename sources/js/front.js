@@ -1,5 +1,4 @@
-alert('funciona')
-import * as name from "./maps.js";
+import * as name from "./initMap.js";
 
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache

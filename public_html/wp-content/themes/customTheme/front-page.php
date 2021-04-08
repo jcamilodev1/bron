@@ -18,67 +18,7 @@
 	<div class="container container--general">
 
 		<!-- HEADER -->
-		<header class="header">
-			<div class="header__container">
-				<!-- LOGO -->
-				<a href="#" class="logo">
-					<span class="logo__text">
-						Bronquisol
-					</span>
-				</a>
-				<!-- END LOGO -->
-				<!-- NAV -->
-				<nav class="nav">
-					<ul class="nav__list">
-						<!-- NAV ITEM -->
-						<li class="nav__list__item">
-							<a href="#home" class="nav__list__link anchor">
-								Home
-							</a>
-						</li>
-						<!-- END NAV ITEM -->
-						<!-- NAV ITEM -->
-						<li class="nav__list__item">
-							<a href="#products" class="nav__list__link anchor">
-								Producto
-							</a>
-						</li>
-						<!-- END NAV ITEM -->
-						<!-- NAV ITEM -->
-						<li class="nav__list__item">
-							<a href="#" class="nav__list__link">
-								Legal
-							</a>
-						</li>
-						<!-- END NAV ITEM -->
-						<!-- NAV ITEM -->
-						<li class="nav__list__item">
-							<a href="#" class="nav__list__link">
-								Compra
-							</a>
-						</li>
-						<!-- END NAV ITEM -->
-						<!-- NAV ITEM -->
-						<li class="nav__list__item">
-							<a href="#maps" class="nav__list__link anchor">
-								<svg width="14" height="20" viewBox="0 0 14 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="nav__list__icon">
-									<path d="M7 0C3.13 0 0 3.13 0 7C0 12.25 7 20 7 20C7 20 14 12.25 14 7C14 3.13 10.87 0 7 0ZM7 9.5C5.62 9.5 4.5 8.38 4.5 7C4.5 5.62 5.62 4.5 7 4.5C8.38 4.5 9.5 5.62 9.5 7C9.5 8.38 8.38 9.5 7 9.5Z" fill="#00A3E6"/>
-								</svg>
-							</a>
-						</li>
-						<!-- END NAV ITEM -->
-					</ul>
-				</nav>
-				<!-- END NAV -->
-				<!-- HAMBURGER -->
-				<a href="#" class="hamburgerBtn">
-					<span class="hamburgerBtn__line"></span>
-					<span class="hamburgerBtn__line"></span>
-					<span class="hamburgerBtn__line"></span>
-				</a>
-				<!-- END HAMBURGER -->
-			</div>
-		</header>
+	
 		<!-- HEADER -->
 
 
@@ -96,8 +36,8 @@
 			</div>
 			<!-- PANORAMIC -->
 			<section class="panoramic">
-				<img src="./img/panoramic" usemap="#image-map" class="panoramic__img">
-				<img src="img/panoramic/panoramic-1b.jpg" alt="" class="panoramic__img panoramic__img--back hide">
+				<img src="http://bronquisol.mullenlowedev.com/wp-content/uploads/2021/04/panoramic-1-1024x576.jpg" usemap="#image-map" class="panoramic__img">
+				<img src="http://bronquisol.mullenlowedev.com/wp-content/uploads/2021/04/panoramic-1b-1024x576.jpg" alt="" class="panoramic__img panoramic__img--back hide">
 
 				<map name="image-map">
 					<area target="" alt="" title="" href="#" coords="654,212,832,495" shape="rect" class="panoramic__link">
@@ -106,7 +46,7 @@
 			<!-- END PANORAMIC -->
 			<!-- CURSOR -->
 			<div class="cursor">
-				<img src="img/icons/hand--1.svg" alt="" class="cursor__icon">
+				<img src="http://bronquisol.mullenlowedev.com/wp-content/uploads/2021/04/hand-1.png" alt="" class="cursor__icon">
 			</div>
 			<!-- END CURSOR -->
 		</section>
@@ -147,42 +87,42 @@
 							<!-- CAROUSEL ITEM -->
 							<article class="swiper-slide carousel__item">
 								<picture class="carousel__item__picture" data-info="product-1">
-									<img src="img/products/product-1.png" alt="" class="carousel__item__img">
+									<img src="http://bronquisol.mullenlowedev.com/wp-content/uploads/2021/04/product-1-1.png" alt="" class="carousel__item__img">
 								</picture>
 							</article>
 							<!-- END CAROUSEL ITEM -->
 							<!-- CAROUSEL ITEM -->
 							<article class="swiper-slide carousel__item">
 								<picture class="carousel__item__picture" data-info="product-2">
-									<img src="img/products/product-2.png" alt="" class="carousel__item__img">
+									<img src="http://bronquisol.mullenlowedev.com/wp-content/uploads/2021/04/product-2.png" alt="" class="carousel__item__img">
 								</picture>
 							</article>
 							<!-- END CAROUSEL ITEM -->
 							<!-- CAROUSEL ITEM -->
 							<article class="swiper-slide carousel__item">
 								<picture class="carousel__item__picture" data-info="product-3">
-									<img src="img/products/product-3.png" alt="" class="carousel__item__img">
+									<img src="http://bronquisol.mullenlowedev.com/wp-content/uploads/2021/04/product-3.png" alt="" class="carousel__item__img">
 								</picture>
 							</article>
 							<!-- END CAROUSEL ITEM -->
 							<!-- CAROUSEL ITEM -->
 							<article class="swiper-slide carousel__item">
 								<picture class="carousel__item__picture" data-info="product-4">
-									<img src="img/products/product-1.png" alt="" class="carousel__item__img">
+									<img src="http://bronquisol.mullenlowedev.com/wp-content/uploads/2021/04/product-1-1.png" alt="" class="carousel__item__img">
 								</picture>
 							</article>
 							<!-- END CAROUSEL ITEM -->
 							<!-- CAROUSEL ITEM -->
 							<article class="swiper-slide carousel__item">
 								<picture class="carousel__item__picture" data-info="product-5">
-									<img src="img/products/product-2.png" alt="" class="carousel__item__img">
+									<img src="http://bronquisol.mullenlowedev.com/wp-content/uploads/2021/04/product-2-1.png" alt="" class="carousel__item__img">
 								</picture>
 							</article>
 							<!-- END CAROUSEL ITEM -->
 							<!-- CAROUSEL ITEM -->
 							<article class="swiper-slide carousel__item">
 								<picture class="carousel__item__picture" data-info="product-6">
-									<img src="img/products/product-3.png" alt="" class="carousel__item__img">
+									<img src="http://bronquisol.mullenlowedev.com/wp-content/uploads/2021/04/product-3-1.png" alt="" class="carousel__item__img">
 								</picture>
 							</article>
 							<!-- END CAROUSEL ITEM -->
@@ -546,7 +486,7 @@
 									<a href="https://www.farmatodo.com.co/" class="card">
 										<div class="card__top">
 											<picture class="card__picture">
-												<img src="img/places/place-1.jpg" alt="" class="card__img">
+												<img src="http://bronquisol.mullenlowedev.com/wp-content/uploads/2021/04/place-1.jpg" alt="" class="card__img">
 											</picture>
 										</div>
 										<div class="card__content">
@@ -564,7 +504,7 @@
 											</span>
 											<span class="card__go">
 												<picture class="card__go__picture">
-													<img src="img/icons/arrow--turned.svg" alt="" class="card__go__icon">
+													<img src="http://bronquisol.mullenlowedev.com/wp-content/uploads/2021/04/arrow-turned.png" alt="" class="card__go__icon">
 												</picture>
 												<p class="card__go__text">
 													Ruta
@@ -581,7 +521,7 @@
 									<a href="https://www.farmatodo.com.co/" class="card">
 										<div class="card__top">
 											<picture class="card__picture">
-												<img src="img/places/place-1.jpg" alt="" class="card__img">
+												<img src="http://bronquisol.mullenlowedev.com/wp-content/uploads/2021/04/place-1.jpg" alt="" class="card__img">
 											</picture>
 										</div>
 										<div class="card__content">
@@ -599,7 +539,7 @@
 											</span>
 											<span class="card__go">
 												<picture class="card__go__picture">
-													<img src="img/icons/arrow--turned.svg" alt="" class="card__go__icon">
+													<img src="http://bronquisol.mullenlowedev.com/wp-content/uploads/2021/04/arrow-turned.png" alt="" class="card__go__icon">
 												</picture>
 												<p class="card__go__text">
 													Ruta
@@ -616,7 +556,7 @@
 									<a href="https://www.farmatodo.com.co/" class="card">
 										<div class="card__top">
 											<picture class="card__picture">
-												<img src="img/places/place-1.jpg" alt="" class="card__img">
+												<img src="http://bronquisol.mullenlowedev.com/wp-content/uploads/2021/04/place-1.jpg" alt="" class="card__img">
 											</picture>
 										</div>
 										<div class="card__content">
@@ -634,7 +574,7 @@
 											</span>
 											<span class="card__go">
 												<picture class="card__go__picture">
-													<img src="img/icons/arrow--turned.svg" alt="" class="card__go__icon">
+													<img src="http://bronquisol.mullenlowedev.com/wp-content/uploads/2021/04/arrow-turned.png" alt="" class="card__go__icon">
 												</picture>
 												<p class="card__go__text">
 													Ruta
@@ -651,7 +591,7 @@
 									<a href="https://www.farmatodo.com.co/" class="card">
 										<div class="card__top">
 											<picture class="card__picture">
-												<img src="img/places/place-1.jpg" alt="" class="card__img">
+												<img src="http://bronquisol.mullenlowedev.com/wp-content/uploads/2021/04/place-1.jpg" alt="" class="card__img">
 											</picture>
 										</div>
 										<div class="card__content">
@@ -669,7 +609,7 @@
 											</span>
 											<span class="card__go">
 												<picture class="card__go__picture">
-													<img src="img/icons/arrow--turned.svg" alt="" class="card__go__icon">
+													<img src="http://bronquisol.mullenlowedev.com/wp-content/uploads/2021/04/arrow-turned.png" alt="" class="card__go__icon">
 												</picture>
 												<p class="card__go__text">
 													Ruta
@@ -686,7 +626,7 @@
 									<a href="https://www.farmatodo.com.co/" class="card">
 										<div class="card__top">
 											<picture class="card__picture">
-												<img src="img/places/place-1.jpg" alt="" class="card__img">
+												<img src="http://bronquisol.mullenlowedev.com/wp-content/uploads/2021/04/place-1.jpg" alt="" class="card__img">
 											</picture>
 										</div>
 										<div class="card__content">
@@ -704,7 +644,7 @@
 											</span>
 											<span class="card__go">
 												<picture class="card__go__picture">
-													<img src="img/icons/arrow--turned.svg" alt="" class="card__go__icon">
+													<img src="http://bronquisol.mullenlowedev.com/wp-content/uploads/2021/04/arrow-turned.png" alt="" class="card__go__icon">
 												</picture>
 												<p class="card__go__text">
 													Ruta
@@ -721,7 +661,7 @@
 									<a href="https://www.farmatodo.com.co/" class="card">
 										<div class="card__top">
 											<picture class="card__picture">
-												<img src="img/places/place-1.jpg" alt="" class="card__img">
+												<img src="http://bronquisol.mullenlowedev.com/wp-content/uploads/2021/04/place-1.jpg" alt="" class="card__img">
 											</picture>
 										</div>
 										<div class="card__content">
@@ -739,7 +679,7 @@
 											</span>
 											<span class="card__go">
 												<picture class="card__go__picture">
-													<img src="img/icons/arrow--turned.svg" alt="" class="card__go__icon">
+													<img src="http://bronquisol.mullenlowedev.com/wp-content/uploads/2021/04/arrow-turned.png" alt="" class="card__go__icon">
 												</picture>
 												<p class="card__go__text">
 													Ruta
@@ -762,24 +702,7 @@
 
 
 		<!-- FOOTER -->
-		<footer class="footer">
-			<div class="footer__container">
-				<div class="footer__left">
-					<!-- LOGO -->
-					<a href="#" class="logo">
-						<span class="logo__text">
-							Bronquisol
-						</span>
-					</a>
-					<!-- END LOGO -->
-				</div>
-				<div class="footer__right">
-					<span class="footer__goUp">
-						Volver arriba
-					</span>
-				</div>
-			</div>
-		</footer>
+
 		<!-- END FOOTER -->
 
 
