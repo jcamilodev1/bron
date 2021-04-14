@@ -904,8 +904,6 @@ a[href^="tel"] {
   padding: 15px;
   border: 1px solid #000070;
   overflow-x: auto; }
-  .pTable__body {
-    min-width: 350px; }
   .pTable__row {
     display: flex;
     justify-content: center;
@@ -3941,3 +3939,37 @@ THEMES:
 
 
 /*# sourceMappingURL=main.css.map*/
+iframe{
+  width:100%;
+  min-height:600px
+}
+#map{
+  overflow:hidden
+}
+@media only screen and (max-width: 767px){
+iframe {
+    min-height: 300px;
+
+}
+}
+/* .container--map, .container--products, .container--boxes, .container--text{
+  display:none ;
+} */
+.container--general{
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+.bandera {
+  position: fixed;
+  top: 80%;
+  right: 0px;
+  z-index: 1000;
+}
+.container--map .container__left {
+  width: 100%;
+  margin-top: 30px;
+}
+.tiendas{
+  display:none;
+}
